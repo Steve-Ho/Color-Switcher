@@ -17,7 +17,7 @@ P.S. Currently only works on larger screens (1240px or above.)
 
 ```
 git clone https://github.com/Steve-Ho/Color-Switcher.git
-cd your_project_folder
+cd Color-Switcher (or your_preferred_project_folder)
 npm install or yarn install
 npm start or yarn start
 ```
