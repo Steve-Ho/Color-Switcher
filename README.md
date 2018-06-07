@@ -1,6 +1,6 @@
 # Pick Colors with Reactjs
 
-Pick your color and preview on the screen.
+Pick your color and preview on the screen.  
 P.S. Currently only works on larger screens (1240px or above.)
 
 ## Getting Started
