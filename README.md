@@ -5,10 +5,7 @@ P.S. Currently only works on larger screens (1240px or above.)
 
 ## Getting Started
 
-```
-git clone 
-```
-or visit [here]()
+![Color Switch Screenshot](https://github.com/Steve-Ho/Color-Switcher/blob/master/public/Color_Switch.png)
 
 ### Prerequisites
 
@@ -17,8 +14,9 @@ or visit [here]()
 * Yarn or NPM
 
 ### Installing
+
 ```
-git clone 
+git clone https://github.com/Steve-Ho/Color-Switcher.git
 cd your_project_folder
 npm install or yarn install
 npm start or yarn start
